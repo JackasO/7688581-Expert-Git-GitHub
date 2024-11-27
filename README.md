@@ -2,8 +2,7 @@
 # Open Transport
 
 Application web pour covoiturage. 
-## je Rajoute cela afin de creer le conflit 
-maintenant je ne sais pas trop si cela rentre en conflit
+## je Rajoute cela
 ## Getting Started
 
 Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
