@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir rien d'autre que ça
+A définir rien d'autre que ça , je me demande le pourquoi du comment ?
 ```
 
 
