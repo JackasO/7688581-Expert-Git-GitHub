@@ -1,6 +1,7 @@
 # Open Transport
-## ON RAJOUTE LA Mcur DONNER UN SENS A NOTRE EXERCICE 
-Application web pour covoiturage. 
+
+## ON RAJOUTE LA MODIFICATION pour DONNER UN SENS A NOTRE EXERCICE 
+
 
 ## Getting Started
 
@@ -21,7 +22,9 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir rien d'autre que ça, abon mais pourquoi ?
+
+A définir rien d'autre que ça , je me demande le pourquoi du comment ?
+
 ```
 
 
